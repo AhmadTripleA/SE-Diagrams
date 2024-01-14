@@ -1,4 +1,3 @@
-# PetConnect MongoDB Schema
 # Entity-Relationship Diagram
 ![ER Diagram](https://github.com/AhmadTripleA/Draw.io_Graphs/assets/145459081/0da7ae45-d3e5-4dd8-b465-0f48cae1690e)
 # Class Diagram
