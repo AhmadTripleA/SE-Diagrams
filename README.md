@@ -1,3 +1,5 @@
+# Software Engineering Diagrams
+A simple workshop for me to store and learn software engineering diagrams like class, use case, entity-relationship, activity, sequence, and others.
 # Entity-Relationship Diagram
 ![ER Diagram](https://github.com/AhmadTripleA/Draw.io_Graphs/assets/145459081/0da7ae45-d3e5-4dd8-b465-0f48cae1690e)
 # Class Diagram
